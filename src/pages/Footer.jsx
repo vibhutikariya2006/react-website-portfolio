@@ -18,7 +18,7 @@ const Footer = () => {
     <div className="footer-content">
       <div className="footer-left contact-details">
        <div className='logo-circle'>VK </div> 
-       <h3>© 2026 Alex Carter. Crafted with care.</h3>
+       <h3>© 2026 Vibhuti Karia. Crafted with care.</h3>
       </div>
         <div className="footer-right">
           {footericon.map((icon) => (
