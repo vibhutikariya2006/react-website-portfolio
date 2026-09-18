@@ -12,17 +12,13 @@ const Offer = () => {
      name: "Full Stack Development ",
      description:"End-to-end web apps with clean APIs and scalable data."
     },
+  
     {id: 3,
-      logo: <i class="ri-palette-line"></i>,
-      name: "UI/UX Design",
-      description:"Interfaces designed with taste, motion, and clarity."
-    },
-    {id: 4,
       logo: <i class="ri-plug-line"></i>,
       name: "API Integration",
       description: "Third-party APIs, auth, payments, AI — wired the right way."
     },
-        {id: 5,
+        {id: 4,
       logo: <i class="ri-speed-up-line"></i>,
       name: "Website Optimization",
       description: "Core Web Vitals, SEO, and DX polish for existing sites."

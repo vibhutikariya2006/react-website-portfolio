@@ -28,7 +28,7 @@ const About = () => {
                 <h3>{item.number}</h3>
                 <p>{item.text}</p>
               </div>
-            ))}
+            ))} 
           </div>
         </div>
       </div>

@@ -6,12 +6,12 @@ const Skill = () => {
     {id: 1,
       logo: <i class="ri-code-s-slash-line"></i>,
      name: "Frontend",
-     skills: ["HTML", "CSS", "JavaScript", "Tailwind CSS" , "TypeScript", "React", "Next.js", "Bootstrap"]
+     skills: ["HTML", "CSS", "JavaScript", "Tailwind CSS" ,  "React",  "Bootstrap"]
     },
     {id: 2,
       logo: <i class="ri-server-line"></i>,
      name: "Backend",
-     skills: ["Node.js", "Express.js", "Firebase", "SQL", "MongoDB"]
+     skills: ["Node.js"]
     },
     {id: 3,
       logo: <i class="ri-palette-line"></i>,

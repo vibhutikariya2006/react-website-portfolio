@@ -20,7 +20,7 @@ function HeroSection() {
         </h1>
 
         <p>
-          Full Stack Developer • React • Node.js • MongoDB • UI Designer.
+          Full Stack Developement Learner • HTML • CSS • Javascript • React.
           <br />
           Building fast, elegant products that feel as good as they look.
         </p>
@@ -47,11 +47,11 @@ function HeroSection() {
           <div className="tag top-left">
             React
             <br />
-            <strong>98% Coverage</strong>
+            <strong>90% Coverage</strong>
           </div>
 
           <div className="tag bottom-right">
-            Node.js
+            Javascript
             <br />
             <strong>120ms</strong>
           </div>
@@ -69,8 +69,6 @@ function HeroSection() {
           <p>JavaScript</p>
           <span><i class="ri-shining-fill"></i></span>
           <p>React</p>
-          <span><i class="ri-shining-fill"></i></span>
-          <p>Node.js</p>
           <span><i class="ri-shining-fill"></i></span>
           <p>Tailwind CSS</p>
           <span><i class="ri-shining-fill"></i></span>
