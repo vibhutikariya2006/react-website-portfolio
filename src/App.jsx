@@ -6,7 +6,6 @@ import About from "./pages/About";
 import Skill from "./pages/Skill";
 import Projects from "./pages/Project";
 import Offer from "./pages/Offer";
-import Review from "./pages/Review";
 import Contact from "./pages/Contact";
 import Footer from "./pages/Footer";
 
@@ -19,7 +18,7 @@ function App() {
     <Skill />
     <Projects />
     <Offer />
-    <Review />
+    
     <Contact />
     <Footer />
     </BrowserRouter>
