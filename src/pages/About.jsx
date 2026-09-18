@@ -1,4 +1,5 @@
 import React from 'react'
+import image from '../../public/image.png'
 
 const About = () => {
   const boxtext = [
@@ -16,7 +17,7 @@ const About = () => {
         <div className="about-left">
           <div className="image-card">
           
-                    <img src="https://i.pinimg.com/736x/28/1c/d5/281cd5cc2499c1e9d94e9576e8dc1c36.jpg" alt="Developer" />
+                    <img src={image} alt="Developer" />
           
                   </div>
         </div>

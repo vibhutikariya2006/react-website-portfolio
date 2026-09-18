@@ -1,5 +1,5 @@
 import React from "react";
-
+import image from "../../public/image-1.png"
 function HeroSection() {
 
   return (
@@ -42,7 +42,7 @@ function HeroSection() {
 
         <div className="image-card">
 
-          <img src="https://img.magnific.com/free-photo/brunette-business-woman-with-wavy-long-hair-blue-eyes-stands-holding-notebook-hands_197531-343.jpg?semt=ais_hybrid&w=740&q=80" alt="Developer" />
+          <img src={image} />
 
           <div className="tag top-left">
             React
